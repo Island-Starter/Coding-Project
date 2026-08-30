@@ -1,6 +1,6 @@
 # Front-End Project Journey 🌐
 
-This repository contains my projects built based on the frontend developer roadmap from [roadmap.sh](https://roadmap.sh).
+This repository contains my projects built based on the frontend developer roadmap from [Roadmap.sh](https://roadmap.sh).
 
 ---
 
