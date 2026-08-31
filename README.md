@@ -1,6 +1,6 @@
 # Front-End Project Journey 🌐
 
-This repository contains my projects built based on the frontend developer roadmap from [roadmap.sh](https://roadmap.sh).
+This repository contains my projects built based on the frontend developer roadmap from [Roadmap.sh](https://roadmap.sh) and [Codedex](https://www.codedex.io/home)
 
 ---
 
@@ -15,4 +15,4 @@ This repository contains my projects built based on the frontend developer roadm
 ## 📋 Projects Built
 
 1. [Basic Website](<FrontEnd Project/Basic Website/>) - HTML & CSS Foundation
-2. [To Do List](<To Do List/>) - Basic Javascript
+2. [To Do List](<FrontEnd Project/To Do List/>) - Basic Javascript
