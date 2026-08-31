@@ -12,11 +12,11 @@ This repository contains my projects built based on the frontend developer roadm
 
 ---
 
-## 📋 Projects Built
+### 📋 Projects Built
 
-1. [Basic Website](https://github.com/Island-Starter/RoadMap Journey/blob/master/FrontEnd%20Project/Basic%20Website) - My foundational project practicing page structure, text formatting, and simple styling.
-2. [To Do List](<FrontEnd Project/To Do List/>) - Built an interactive website using HTML, CSS, and JavaScript logic to add, complete, and delete tasks.
-3. [Changelog Component](<FrontEnd Project/Changelog/>) - Focusing on mastering CSS Flexbox layouts and spacing.
+1. [Basic Website](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/Basic%20Website/) - My foundational project practicing page structure, text formatting and simple styling.
+2. [To Do List](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/To%20Do%20List/) - Built an interactive website using HTML, CSS, and JavaScript logic to add, complete, and delete tasks.
+3. [Changelog Component](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/Changelog/Changelog.html) - Focusing on mastering CSS Flexbox layouts and spacing.
 
 ---
 
