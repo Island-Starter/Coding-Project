@@ -14,5 +14,6 @@ This repository contains my projects built based on the frontend developer roadm
 
 ## 📋 Projects Built
 
-1. [Basic Website](<FrontEnd Project/Basic Website/>) - HTML & CSS Foundation
-2. [To Do List](<FrontEnd Project/To Do List/>) - Basic Javascript
+1. [Basic Website](<FrontEnd Project/Basic Website/>) 
+2. [To Do List](<FrontEnd Project/To Do List/>)
+3. [Changelog Component](<FrontEnd Project/Changelog/>) 
