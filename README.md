@@ -26,3 +26,4 @@ This repository contains my projects built based on the frontend developer roadm
 1. [Basic Website](https://roadmap.sh/projects/basic-html-website) - Roadmap.sh
 2. [To-Do List](https://www.codedex.io/projects/create-a-to-do-list-app-with-html-css-js) - Codedex
 3. [Changelog Component](https://roadmap.sh/projects/changelog-component) - Roadmap.sh
+4. [Image Layout](https://roadmap.sh/projects/image-grid) - Roadmap.sh
