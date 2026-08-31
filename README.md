@@ -12,7 +12,16 @@ This repository contains my projects built based on the frontend developer roadm
 
 ---
 
-## 📋 Projects Built
+### 📋 Projects Built
 
-1. [Basic Website](<FrontEnd Project/Basic Website/>) - HTML & CSS Foundation
-2. [To Do List](<FrontEnd Project/To Do List/>) - Basic Javascript
+1. [Basic Website](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/Basic%20Website/BasicWebsite.html) - My foundational project practicing page structure, text formatting and simple styling.
+2. [To Do List](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/To%20Do%20List/TodoList.html) - Built an interactive website using HTML, CSS, and JavaScript logic to add, complete, and delete tasks.
+3. [Changelog Component](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/Changelog/Changelog.html) - Focusing on mastering CSS Flexbox layouts and spacing.
+
+---
+
+## 🗂️ Project Reference
+
+1. [Basic Website](https://roadmap.sh/projects/basic-html-website) - Roadmap.sh
+2. [To-Do List](https://www.codedex.io/projects/create-a-to-do-list-app-with-html-css-js) - Codedex
+3. [Changelog Component](https://roadmap.sh/projects/changelog-component) - Roadmap.sh
