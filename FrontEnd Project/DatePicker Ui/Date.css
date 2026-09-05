@@ -1,0 +1,54 @@
+body{
+    text-align: center;
+    position: relative;
+    top: 300px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url('https://wallpapers.com/images/featured/minimalist-7xpryajznty61ra3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: white;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.datepicker {
+    background-color: rgba(255, 255, 255, 0.8);
+    line-height: 2.1;
+    width: 300px;
+    margin: 0 auto;
+    padding: 30px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+}
+
+#submit {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+#submit:hover {
+    background-color: red;
+}
+
+#date {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.datepicker label {
+    display: block;
+    font-weight: bold;
+}
