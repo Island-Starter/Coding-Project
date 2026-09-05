@@ -8,7 +8,7 @@ This repository contains my projects built based on the frontend developer roadm
 
 - [x] HTML (Structure & Semantics)
 - [x] CSS (Styling & Layouts)
-- [x] JavaScript (Making Website Interactive)
+- [x] JavaScript (Making Websites Interactive)
 
 ---
 
@@ -17,8 +17,8 @@ This repository contains my projects built based on the frontend developer roadm
 1. [Basic Website](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/Basic%20Website/BasicWebsite.html) - My foundational project practicing page structure, text formatting, and simple styling.
 2. [To Do List](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/To%20Do%20List/TodoList.html) - Built an interactive website using HTML, CSS, and JavaScript logic to add, complete, and delete tasks.
 3. [Changelog Component](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/Changelog/Changelog.html) - Focused on mastering CSS Flexbox layouts and spacing.
-4. [Image Layout](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/Image%20Grid%20Layout/Grid%20Layout.html) - Focusing on mastering CSS Grid and spacing.
-5. [Date Picker UI](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/DatePicker%20Ui/Datepick.html) - Built a date picker UI to understand how forms work.
+4. [Image Layout](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/Image%20Grid%20Layout/Grid%20Layout.html) - Focused on mastering CSS Grid and spacing.
+5. [Date Picker UI](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/DatePicker%20Ui/Datepick.html) - Built a date picker UI to understand how input works.
 
 ---
 
