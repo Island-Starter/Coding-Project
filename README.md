@@ -16,8 +16,9 @@ This repository contains my projects built based on the frontend developer roadm
 
 1. [Basic Website](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/Basic%20Website/BasicWebsite.html) - My foundational project practicing page structure, text formatting, and simple styling.
 2. [To Do List](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/To%20Do%20List/TodoList.html) - Built an interactive website using HTML, CSS, and JavaScript logic to add, complete, and delete tasks.
-3. [Changelog Component](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/Changelog/Changelog.html) - Focusing on mastering CSS Flexbox layouts and spacing.
+3. [Changelog Component](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/Changelog/Changelog.html) - Focused on mastering CSS Flexbox layouts and spacing.
 4. [Image Layout](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/Image%20Grid%20Layout/Grid%20Layout.html) - Focusing on mastering CSS Grid and spacing.
+5. [Date Picker UI](https://island-starter.github.io/RoadMap-Journey/FrontEnd%20Project/DatePicker%20Ui/Datepick.html) - Built a date picker UI to understand how forms work.
 
 ---
 
@@ -27,3 +28,4 @@ This repository contains my projects built based on the frontend developer roadm
 2. [To-Do List](https://www.codedex.io/projects/create-a-to-do-list-app-with-html-css-js) - Codedex
 3. [Changelog Component](https://roadmap.sh/projects/changelog-component) - Roadmap.sh
 4. [Image Layout](https://roadmap.sh/projects/image-grid) - Roadmap.sh
+5. [Date Picker](https://roadmap.sh/projects/datepicker-ui) - Roadmap.sh
